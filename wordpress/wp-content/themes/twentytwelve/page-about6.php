@@ -1,0 +1,39 @@
+<style>
+ul{
+	list-style-image: url('http://localhost/wordpress/flag.bmp');
+}
+</style>
+
+<h1 class="entry-title" style="color:#3CC43C">
+	Description	</h1>
+
+	<div class="entry-content">
+	<p>Want to bring an original and authentic project and secure global workspace to your students? Leave the lesson planning</p>
+<p>to us and join our ePals Junior Folklorist collaborative project.</p>
+<p>Our master teachers have create a complete end-to-end experience to guide your students on their journey, All you have to do is sign your students up and give them access to computers for an hour each week. It's fun, free and easy to use! ePals provides:</p>
+<ul class="dscription_ul">
+<li>Newly-designed safe and secure, interactive and persisent woekspace</li>
+</ul>
+<ul class="dscription_ul">
+<li>Multiple interactive co-creation digital tools</li>
+</ul>
+<ul class="dscription_ul">
+<li>Communication tools including video messages</li>
+</ul>
+<ul class="dscription_ul">
+<li>Similar-age classroom parent(s) around the globe</li>
+</ul>
+<ul class="dscription_ul">
+<li>Online collaborative learning</li>
+</ul>
+<ul class="dscription_ul">
+<li>Outside of class fieldwork assignments</li>
+</ul>
+<ul class="dscription_ul">
+<li>Standards-aligned instructional plans and multi-media resources</li>
+</ul>
+<ul class="dscription_ul">
+<li>Active facilitation from our master teachers</li>
+</ul>
+<p>ePals knows that your time is valuable and limited. Enroll in our Collaborative Project and we'll deliver meaningful and quality learning experiences.</p>
+	</div>
